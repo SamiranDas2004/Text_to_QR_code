@@ -4,7 +4,7 @@ body{
 }
 .container{
    top: 20%;
-    width: 400px;
+    width: 401px;
     /* border: 2px solid red; */
 background-color: aliceblue;
 border-radius: 10px;
@@ -17,7 +17,6 @@ hr{
 }
 .container h1{
     text-align: center
-
 }
 #input{
     width: 95%;
@@ -28,7 +27,6 @@ hr{
 .qr-img img{
     overflow: hidden;
     transition: 55s;
-
 }
 
 #button{
@@ -45,7 +43,6 @@ hr{
    font-weight: 500;
 }
  #img-box{
-
     margin: 5px;
 }
 /*
